@@ -1,0 +1,18 @@
+#contact .form input,
+#contact .form textarea {
+    border: none;
+    border-bottom: 1px rgb(165, 165, 165) solid;
+}
+
+#landing img {
+    height: 150px;
+    width: 150px;
+}
+
+#navbar ul {
+    text-decoration: none;
+}
+
+#navbar ul {
+    text-decoration: none;
+}
